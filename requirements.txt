@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+chromadb
+sentence-transformers
+httpx
+pydantic
+rich
+tqdm
